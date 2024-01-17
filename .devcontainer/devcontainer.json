@@ -1,0 +1,11 @@
+{
+    // Copilot-enabled
+    "name": "Codespace for mmalek with copilot!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
